@@ -10,9 +10,6 @@ A pasta "gráficos" contém as tabelas e imagens referentes à geração de grá
 
 A pasta "relatorio" contém uma cópia do relatório.
 
-Formato usado na nomeação dos arquivos retirados do site da siac:
-siac_<local>_<ano>
-
 Siglas:
 - cmm : Multidisciplinar UFRJ-Macaé.
 - ct : Centro de Tecnologia.
