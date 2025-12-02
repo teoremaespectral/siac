@@ -1,6 +1,6 @@
 Aqui estão os arquivos referentes ao projeto da disciplina Programação, IA e Banco de Dados.
 
-As pastas nomeadas com anos (2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 e 2025) contém os arquivos com os dados retirados do site da Siac.
+As pastas nomeadas com anos (2017, 2018, 2019, 2022, 2023, 2024 e 2025) contém os arquivos com os dados retirados do site da Siac.
 
 A pasta de "códigos" contém os scripts utilizados para extrair e trabalhar os dados.
 
