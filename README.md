@@ -1,6 +1,6 @@
 # 📊 Análise de Dados SIAC UFRJ
 
-Projeto desenvolvido na disciplina **Programação, IA e Bases de Dados**, com foco em extração, tratamento e análise de dados acadêmicos a partir de arquivos do SIAC.
+Projeto desenvolvido na disciplina **Programação, IA e Banco de Dados**, com foco em extração, tratamento e análise de dados acadêmicos a partir de arquivos do SIAC.
 
 ## 🎯 Objetivo
 
