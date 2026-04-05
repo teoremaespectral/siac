@@ -41,7 +41,7 @@ O projeto permitiu:
 - Victor Vieira Nunes – Matemática Aplicada  
 
 Professor: Milton Ramos Ramirez  
-Disciplina: Programação, IA e Bases de Dados
+Disciplina: Programação, IA e Banco de Dados
 
 ## 📝 Observações
 
